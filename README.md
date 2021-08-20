@@ -19,7 +19,7 @@
     <kbd><img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="max-width:100%;"></kbd>
     <kbd><img align="center" alt="bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;"></kbd>
     <kbd><img align="center" alt="postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" style="max-width:100%;"></kbd>
-    <kbd><img align="center" alt="gimp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-plain.svg" style="max-width:100%;"></kbd>
+    <kbd><img align="center" alt="gimp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" style="max-width:100%;"></kbd>
   </kbd>
 </p>
 
