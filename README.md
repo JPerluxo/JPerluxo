@@ -1,10 +1,11 @@
-# I'm Jefferson Perluxo Clemente
+# IHello there, I'm Jefferson Perluxo Clemente
 
+## About me
 - I'm living in Brazil, southeast
 - I'm eager to learn about <img align="center" alt="angular" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="max-width:100%;">
 - I’m currently working on [*Prodam*](https://portal.prodam.sp.gov.br/) - Empresa de Tecnologia da Informação e Comunicação do Município de São Paulo
 
-## Connect with me
+## Connect me
 <a href="https://www.linkedin.com/in/jperluxo/" target="_blank"> <img align="center" alt="jefferson-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/JPerluxo/" target="_blank"> <img align="center" alt="jefferson-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style="max-width:100%;">
