@@ -1,6 +1,6 @@
 # About me
 - I'm living in Brazil, southeast
-- I'm eager to learn about <kbd><img align="center" alt="angular" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="max-width:100%;"></kbd>
+- I'm eager to learn about <kbd><img align="center" alt="angular" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;"></kbd>
 - I’m currently working on [*Prodam*](https://portal.prodam.sp.gov.br/) - Empresa de Tecnologia da Informação e Comunicação do Município de São Paulo
 
 ## Connect me
