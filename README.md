@@ -8,8 +8,7 @@
 </a>
 <a href="https://www.facebook.com/JPerluxo/" target="_blank"> <img align="center" alt="jefferson-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style="max-width:100%;">
 </a>
-<a href=mailto:jperluxo@gmail.com?subject=Contato%20pelo%20Github> <img align="center" alt="jefferson-email" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" style="max-width:100%;">
-</a>
+[<img align="center" alt="jefferson-email" height="30" width="40" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png" style="max-width:100%;">](mailto:jperluxo@gmail.com?subject=Contato%20pelo%20Github)
 
 ## My Skills
 <p>
