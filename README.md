@@ -1,5 +1,4 @@
-### Hello there ✌️
-# 👾 I'm Jefferson Perluxo Clemente
+#I'm Jefferson Perluxo Clemente
 
 - I'm living in Brazil, southeast
 - I'm eager to learn about <img align="center" alt="angular" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="max-width:100%;">
