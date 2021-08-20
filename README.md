@@ -1,7 +1,7 @@
 # About me
 - I'm living in Brazil, southeast
 - I'm eager to learn about <kbd><img align="center" alt="angular" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;"></kbd>
-- I’m currently working on [*Prodam*](https://portal.prodam.sp.gov.br/) - Empresa de Tecnologia da Informação e Comunicação do Município de São Paulo
+- I’m currently interning on [*Prodam*](https://portal.prodam.sp.gov.br/) - Empresa de Tecnologia da Informação e Comunicação do Município de São Paulo
 
 ## Connect me
 <a href="https://www.linkedin.com/in/jperluxo/" target="_blank"> <img align="center" alt="jefferson-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
