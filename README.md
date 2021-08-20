@@ -1,4 +1,4 @@
-# IHello there, I'm Jefferson Perluxo Clemente
+# Hello there, I'm Jefferson Perluxo Clemente
 
 ## About me
 - I'm living in Brazil, southeast
