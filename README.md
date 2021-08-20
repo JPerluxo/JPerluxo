@@ -1,5 +1,4 @@
 ### Hello there ✌️
-
 # 👾 I'm Jefferson Perluxo Clemente
 
 - I'm living in Brazil, southeast
