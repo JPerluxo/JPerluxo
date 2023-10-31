@@ -4,10 +4,12 @@
 - I'm currently working on [*Muralis Tecnologia*](https://muralis.com.br/)
 
 ## Connect me
-<a href="https://www.linkedin.com/in/jperluxo/" target="_blank"> <img align="center" alt="jefferson-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-</a>
-<a href="mailto:jperluxo@gmail.com?subject=Contato%20pelo%20Github" target="_blank"> <img align="center" alt="jefferson-gmail" height="35" width="35" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png" style="max-width:100%;">
-</a>
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/jperluxo/" target="_blank"> <img align="center" alt="jefferson-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+  </a>
+  <a href="mailto:jperluxo@gmail.com?subject=Contato%20pelo%20Github" target="_blank"> <img align="center" alt="jefferson-gmail" height="35" width="35" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png" style="max-width:100%;">
+  </a>
+</div>
 
 ## My Skills
 <p>
