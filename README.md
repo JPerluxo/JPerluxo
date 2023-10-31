@@ -19,4 +19,4 @@
   </kbd>
 </p>
 
-![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPerluxo&show_icons=true&count_private=true&theme=dark)
+![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JPerluxo&show_icons=true&theme=dark&locale=en&layout=compact)
