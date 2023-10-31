@@ -1,6 +1,6 @@
 # About me
 - I'm living in Brazil, southeast
-- I'm eager to learn about <kbd><kbd><img align="center" alt="javascript" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></kbd><kbd><img align="center" alt="angularjs" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;"></kbd></kbd>
+- I'm eager to learn about <kbd><img align="center" alt="react" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;"></kbd>
 - I'm currently working on [*Muralis Tecnologia*](https://muralis.com.br/)
 
 ## Connect me
