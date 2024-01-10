@@ -1,21 +1,12 @@
 # About me
-- I'm living in Brazil, southeast
-- I'm eager to learn about <kbd><img align="center" alt="react" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;"></kbd>
-- I'm currently working on [*Muralis Tecnologia*](https://muralis.com.br/)
+**Hi, I'm [Jefferson Perluxo](https://github.com/JPerluxo)! I'm living in the southeast of Brazil, focused on learning <kbd><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" height="20" width="20"></a></kbd>. Currently, I work at [*Muralis Tecnologia*](https://muralis.com.br/).**
 
-## Connect me
-<a href="mailto:jperluxo@gmail.com?subject=Contato%20pelo%20Github"> <img align="center" alt="jefferson-gmail" height="35" width="35" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png" style="max-width:100%;"></a>
-<a href="https://www.linkedin.com/in/jperluxo/"> <img align="center" alt="jefferson-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"></a>
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jperluxo@gmail.com?subject=Contato%20pelo%20Github)](mailto:jperluxo@gmail.com?subject=Contato%20pelo%20Github)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jperluxo/)](https://www.linkedin.com/in/jperluxo/)
 
 ## My Skills
 <p>
-  <kbd>
-    <kbd><img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="max-width:100%;"></kbd>
-    <kbd><img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="max-width:100%;"></kbd>
-    <kbd><img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></kbd>    
-    <kbd><img align="center" alt="microsoftsqlserver" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="max-width:100%;"></kbd>
-    <kbd><img align="center" alt="gimp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" style="max-width:100%;"></kbd>
-  </kbd>
+  <kbd><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react" alt="My Skills"></a></kbd>
 </p>
 
-![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JPerluxo&show_icons=true&theme=dark&locale=en&layout=compact)
+![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=JPerluxo&show_icons=true&theme=transparent&locale=en&layout=compact)
