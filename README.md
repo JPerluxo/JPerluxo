@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
-
 <p align="left">
 	<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DBFB&width=435&separator=%3C&lines=console.log(%22Hello+world!%22);" alt="Typing SVG" />
 </p>
+
+<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
 
 <p align="left">
 	<strong>
