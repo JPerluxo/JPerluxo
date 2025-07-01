@@ -18,11 +18,9 @@
 </p>
 
 <p align="left">
-	<details>
-		<summary>My Skills</summary><br>
-		<kbd><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react" alt="My Skills"></a></kbd><br><br>
-		<kbd><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JPerluxo&theme=transparent&hide_border=true&locale=en&layout=compact" alt="Jefferson's GitHub stats"></kbd>
-	</details>
+	My Skills<br>
+	<kbd><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react" alt="My Skills"></a></kbd><br><br>
+	<kbd><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JPerluxo&theme=transparent&hide_border=true&locale=en&layout=compact" alt="Jefferson's GitHub stats"></kbd>
 </p>
 
 #
