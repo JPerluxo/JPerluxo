@@ -1,12 +1,12 @@
 <p align="left">
-	<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DBFB&width=435&separator=%3C&lines=console.log(%22Hello+world!%22);" alt="Typing SVG" />
+	<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DBFB&width=435&separator=%3C&lines=console.log(%22Hello+world!%22);" alt="Typing SVG"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
+<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
 
 <p align="left">
 	<strong>
-		Greetings, I'm <a href="https://github.com/JPerluxo">Jefferson Perluxo!</a> I'm living in the southeast of Brazil, focused on learning <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" height="20" width="20"></a> and <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="20" width="20"></a> ;<br>
+		Greetings, I'm <a href="https://github.com/JPerluxo">Jefferson Perluxo!</a> I'm living in the southeast of Brazil, focused on learning <img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/skills/nextjs.svg" alt="NextJs" height="20" width="20"> and <img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/skills/typescript.svg" alt="TypeScript" height="20" width="20"> ;<br>
 		I'm committed to continuous professional development and motivated to contribute to innovative and challenging projects.
 	</strong>
 </p>
@@ -19,7 +19,19 @@
 
 <p align="left">
 	My Skills:<br>
-	<kbd><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react" alt="My Skills"></a></kbd><br><br>
+	<kbd>
+		<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/skills/html.svg" height="48" alt="HTML">
+		<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/skills/css.svg" height="48" alt="CSS">
+		<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/skills/javascript.svg" height="48" alt="JavaScript">
+		<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/skills/react.svg" height="48" alt="React">
+		<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/skills/nodejs.svg" height="48" alt="NodeJs">
+		<br><br>
+		<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/skills/scrum.svg" height="48" alt="Scrum">
+		<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/skills/kanban.svg" height="48" alt="Kanban">
+		<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/skills/apirest.svg" height="48" alt="APIs REST">
+		<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/skills/git.svg" height="48" alt="Git">
+		<img src="https://raw.githubusercontent.com/JPerluxo/jperluxo/master/images/skills/office.svg" height="48" alt="Microsoft Office">
+	</kbd><br><br>
 	<kbd><img src="https://github-readme-stats-sigma-ten-19.vercel.app/api/top-langs?username=JPerluxo&theme=transparent&hide_border=true&locale=en&layout=compact&hide=java" alt="Jefferson's GitHub stats"></kbd>
 </p>
 
