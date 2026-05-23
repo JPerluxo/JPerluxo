@@ -22,3 +22,4 @@ jobs:
           filename: images/github-metrics.svg
           plugin_languages: yes
           plugin_languages_ignored: java
+          config_timezone: America/Sao_Paulo
